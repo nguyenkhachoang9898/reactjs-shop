@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Home from './components/home/Home';
 
 function App() {
   return (
     <div className="App">
-      <h1>Nguyen Khac Hoang</h1>
+      <Home></Home>
     </div>
   );
 }

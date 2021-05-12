@@ -141,7 +141,7 @@ const Home = () => {
                                 <div className="col-xl-2 col-6">
                                     <div className="header-actions">
                                         {/* Search Header Action Button Start */}
-                                        <a  className="header-action-btn header-action-btn-search"><i className="pe-7s-search" /></a>
+                                        <a className="header-action-btn header-action-btn-search"><i className="pe-7s-search" /></a>
                                         {/* Search Header Action Button End */}
                                         {/* User Account Header Action Button Start */}
                                         <a href="login-register.html" className="header-action-btn d-none d-md-block"><i className="pe-7s-user" /></a>
@@ -152,13 +152,13 @@ const Home = () => {
                                         </a>
                                         {/* Wishlist Header Action Button End */}
                                         {/* Shopping Cart Header Action Button Start */}
-                                        <a  className="header-action-btn header-action-btn-cart">
+                                        <a className="header-action-btn header-action-btn-cart">
                                             <i className="pe-7s-shopbag" />
                                             <span className="header-action-num">3</span>
                                         </a>
                                         {/* Shopping Cart Header Action Button End */}
                                         {/* Mobile Menu Hambarger Action Button Start */}
-                                        <a  className="header-action-btn header-action-btn-menu d-xl-none d-lg-block">
+                                        <a className="header-action-btn header-action-btn-menu d-xl-none d-lg-block">
                                             <i className="fa fa-bars" />
                                         </a>
                                         {/* Mobile Menu Hambarger Action Button End */}
